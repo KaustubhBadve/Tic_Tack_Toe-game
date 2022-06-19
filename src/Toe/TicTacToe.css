@@ -1,0 +1,41 @@
+table td{
+    box-shadow: rgba(229, 189, 11, 0.843) 0px 1px 3px 0px, rgba(235, 239, 5, 0.771) 0px 0px 0px 1px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+table{
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 350px;
+    margin: auto;
+    
+}
+
+button{
+    margin-top: 40px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 28%;
+    cursor: pointer;
+    border: none;
+    font-weight: 600;
+    background-color: gold;
+}
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+p{
+    margin: auto;
+    font-size: 25px;
+}
