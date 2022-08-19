@@ -1,4 +1,4 @@
-<h1>TIC Tack Toe game <h1>
+<h1>Tic Tack Toe game <h1>
 <hr>
 
 <h3>This is an individual Project.</h3>
@@ -11,10 +11,6 @@ These are the technologies used in this project which are available below:
 
 
 <li>React</li>
-
-<li>Redux</li>
-
-<li></li>
 
 <li>Javascript</li>
 
